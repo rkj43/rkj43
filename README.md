@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from India , based in Dublin</h3>
+<h3 align="center">A passionate software developer from India , currently based in Dublin</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
